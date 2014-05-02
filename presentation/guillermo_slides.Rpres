@@ -49,7 +49,7 @@ R packages:
 
 - `lubridate`: handling dates
 
-- `car`: replacing names in English
+- `car`: replacing names (in English)
 
 - `R.utils`: saving as csv.gz
 
